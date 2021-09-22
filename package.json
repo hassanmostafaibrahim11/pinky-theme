@@ -1,7 +1,7 @@
 {
-    "name": "ayu-pink",
-    "displayName": "Ayu pink",
-    "description": "pink theme for ayu",
+    "name": "pink-theme",
+    "displayName": "pink theme",
+    "description": "pink ayu theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.46.0"
@@ -9,12 +9,14 @@
     "categories": [
         "Themes"
     ],
+    "publisher": "hassanoof93",
+    "repository": "https://github.com/hassanmostafaibrahim11/pinky",
     "contributes": {
         "themes": [
             {
-                "label": "pink dark theme",
+                "label": "ayu pink dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/pink dark theme-color-theme.json"
+                "path": "./themes/ayu pink dark-color-theme.json"
             }
         ]
     }
