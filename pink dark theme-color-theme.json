@@ -44,7 +44,7 @@
 	  "list.inactiveSelectionBackground": "#01060e",
 	  "list.inactiveSelectionForeground": "#3d424d",
 	  "list.invalidItemForeground": "#2e323c",
-	  "activityBar.background": "#0a0e14",
+	  "activityBar.background": "#000",
 	  "activityBar.foreground": "#ff46d1",
 	  "activityBar.border": "#420b35",
 	  "activityBarBadge.background": "#c83e9a",
